@@ -2,5 +2,5 @@
 @section('title','Create page')
 
 @section('body')
-    <h1>Estas en el curso de {{$curso}}</h1>
+    <h1>Creación de un curso</h1>
 @endsection
